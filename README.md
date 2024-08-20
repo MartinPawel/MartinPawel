@@ -1,5 +1,3 @@
-# README.md
-
 [<img src="https://img.shields.io/badge/home%20-WWW-white?&style=for-the-badge&logoColor=white" />](https://sites.google.com/view/martinpawelczyk/)
 [<img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee" />](https://twitter.com/MartinPawelczyk) 
 [![Scholar Badge](https://img.shields.io/badge/-Scholar-4285F4?style=for-the-badge&labelColor=4285F4&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?user=UTDR2x0AAAAJ&hl=en&oi=sra)](https://scholar.google.com/citations?user=oYAf_hgAAAAJ&hl=en) 
